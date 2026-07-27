@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NORpoint.aternos.me:28882",
+    "ip": "NORpoint.aternos.me",
     "port": 28882,
     "version": "",
     "try-creative": false
